@@ -3,7 +3,9 @@ const logo=function(){
     
   return `
   
-    \u001b[32m______Ahmed. _  Descodia
+    \u001b[32m______ 
+    
+    Ahmed - Descodia
     Contact me on Telegram; @descodia
     `
 }
