@@ -1,4 +1,4 @@
-#AMD_WP-Tool
+#Descodia-wa-tool
 <img src=".\src\WP-ToolSet.png">
 <p>Basic tool to use in Termux, a cell phone terminal emulator</p>
 
