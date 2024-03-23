@@ -3,8 +3,7 @@ echo -e "
 
 \033[1;32m 
 
-Ahmed - Descodia
-Contact me on telegram ; @descodia
+Descodia
 
 "
 
